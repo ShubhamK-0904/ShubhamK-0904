@@ -33,7 +33,7 @@ PySpark EDA: Analyzes WA EV data with PySpark for cleaning and aggregation. ​V
 - [**SHUBHAM-s-CodeQuotient**](https://github.com/Asura-824/CodeQuotient)  
   A showcase of my coding journey—projects, challenges, and solutions across data analysis along with the tutorials, free compiler and datasets through web technology.
 
-- [**Fcae-Detection**](https://github.com/Asura-824/Face-detection)
+- [**Face-Detection**](https://github.com/Asura-824/Face-detection)
 Detect faces in images using Python + OpenCV. Convert to grayscale, apply Haar Cascade, highlight faces. Simple, fast, and ready for real‑time extension.
 
 - [**Rock-paper-Scissor Game**](https://github.com/Asura-824/Rock-Paper-Scissor)
