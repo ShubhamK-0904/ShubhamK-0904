@@ -3,7 +3,7 @@
   <img src="myimage.jpg" 
        alt="My image" 
        width="200"
-       style="border-radius:15px"
+       style="border-radius:100px"
        height="200"
     />
 </div>
