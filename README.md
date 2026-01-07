@@ -1,12 +1,4 @@
 # 👋 Hi, I'm SHUBHAM
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/201357751?v=4" 
-       alt="My image" 
-       width="180"
-       style="border-radius:100px"
-       height="180"
-    />
-</div>
 
 #### 📊 Data Analyst | 🐍 Python & SQL Enthusiast | ☕ Java Developer | 🔥 PySpark Practitioner | ⚛️ React & React‑Native Developer | 📖 Storyteller with Data | 🌐 Web Developer
 
