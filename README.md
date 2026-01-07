@@ -1,5 +1,5 @@
 # 👋 Hi, I'm SHUBHAM
-<div align="center" style="backgroundcolor:"red">
+<div align="center" style="backgroundcolor:red">
   <img src="https://avatars.githubusercontent.com/u/201357751?s=400&u=11b1d300260d5195c7e7889a87f3a95f1da4a4fc&v=4" 
        alt="My image" 
        width="200"
