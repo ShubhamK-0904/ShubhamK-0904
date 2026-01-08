@@ -45,7 +45,7 @@ Modified NGO platform: now more responsive, accessible, and engaging, with a cle
 
 ## 🛠️ Skills & Tools
 
-- **Languages & Libraries:** Python, PySpark, Pandas, NumPy, Matplotlib, Seaborn, R
+- **Languages & Libraries:** Python, Java, PySpark, Pandas, NumPy, Matplotlib, Seaborn, R
 - **Databases:** SQL, PostgreSQL, Oracle Database
 - **Web:** HTML, CSS, JavaScript
 - **Other:** Data visualization with Power Bi & Tableau, storytelling, problem solving
