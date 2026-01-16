@@ -11,13 +11,13 @@
 ## 🌟 Welcome to My GitHub  
 This is my creative and technical playground 🚀. Here you’ll find:  
 
-- 📂 **Projects** that blend data analysis, software development, and storytelling  
+- 📂 **Projects** blending data analysis, software development, and storytelling  
 - 🧩 **Hands‑on experiments** with Python, SQL, PySpark, and Java for solving real‑world problems  
-- 🎨 **Interactive dashboards & apps** designed with React, React‑Native, Power BI, and Tableau  
-- 📖 **Learning resources** — tutorials, compilers, and datasets I’ve built to help others grow  
-- 🌍 **Impactful initiatives** — from NGO platforms to educational tools, aimed at accessibility and outreach  
+- 🎨 **Interactive dashboards & apps** built with React, React‑Native, Power BI, and Tableau  
+- 📖 **Learning resources** — tutorials, compilers, and datasets to help others grow  
+- 🌍 **Impactful initiatives** — NGO platforms and educational tools designed for accessibility and outreach  
 
-I believe in **learning by building**, and every repository here reflects my journey of combining **technical rigor with creative communication**.  
+Every repository reflects my journey of combining **technical rigor with creative communication**.  
 
 ---
 
@@ -53,11 +53,6 @@ I believe in **learning by building**, and every repository here reflects my jou
 - **Web Development:** HTML, CSS, JavaScript, React, React‑Native  
 - **Visualization Tools:** Power BI, Tableau  
 - **Strengths:** Data storytelling, problem solving, interactive dashboards  
-
----
-
-## 📊 About Me  
-I believe in the **power of data to inform and inspire**. From census analysis to EV adoption trends, I enjoy transforming numbers into narratives that drive decisions.  
 
 ---
 
