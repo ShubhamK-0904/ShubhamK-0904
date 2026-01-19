@@ -1,16 +1,6 @@
 # 👋 Hi, I'm SHUBHAM  
 
-<img src="shubhamimage.webp" alt="Shubham Kadam" class="profile-img" />
-
-<style>
-.profile-img {
-  width:40px;
-  height:40px;
-  border-radius:50%;
-  margin:0 auto 20px;
-  box-shadow:0 4px 12px rgba(0,0,0,.3);
-}
-</style>
+<img src="shubhamimage.webp" alt="Shubham Kadam" width="40" height="40" />
 
 #### 📊 Data Analyst | 🐍 Python & SQL Enthusiast | ☕ Java Developer | 🔥 PySpark Practitioner | ⚛️ React & React‑Native Developer | 📖 Data Storyteller | 🌐 Web Developer  
 
