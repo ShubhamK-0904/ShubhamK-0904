@@ -1,7 +1,5 @@
 # 👋 Hi, I'm SHUBHAM  
 
-<img src="shubhamimage.webp" alt="Shubham Kadam" width="40" height="40" />
-
 #### 📊 Data Analyst | 🐍 Python & SQL Enthusiast | ☕ Java Developer | 🔥 PySpark Practitioner | ⚛️ React & React‑Native Developer | 📖 Data Storyteller | 🌐 Web Developer  
 
 - Turning **raw data into actionable insights**  
