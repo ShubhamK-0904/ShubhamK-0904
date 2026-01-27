@@ -47,26 +47,16 @@ Every repository reflects my journey of combining **technical rigor with creativ
 ## 🛠️ Skills & Toolkit  
 
 ### 🚀 Languages & Libraries  
-[![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge&logo=python)](https://www.python.org/)  
-[![R](https://img.shields.io/badge/R-📊-lightblue?style=for-the-badge&logo=r)](https://www.r-project.org/)  
-[![Java](https://img.shields.io/badge/Java-☕-red?style=for-the-badge&logo=java)](https://www.java.com/)  
-[![PySpark](https://img.shields.io/badge/PySpark-🔥-orange?style=for-the-badge&logo=apachespark)](https://spark.apache.org/)  
+[![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge&logo=python)](https://www.python.org/)  [![R](https://img.shields.io/badge/R-📊-lightblue?style=for-the-badge&logo=r)](https://www.r-project.org/)  [![Java](https://img.shields.io/badge/Java-☕-red?style=for-the-badge&logo=java)](https://www.java.com/)  [![PySpark](https://img.shields.io/badge/PySpark-🔥-orange?style=for-the-badge&logo=apachespark)](https://spark.apache.org/)  
 
 ### 🗄️ Databases  
-[![SQL](https://img.shields.io/badge/SQL-🗂️-yellow?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)  
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-🐘-blue?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)  
-[![Oracle](https://img.shields.io/badge/Oracle-🔴-red?style=for-the-badge&logo=oracle)](https://www.oracle.com/)  
+[![SQL](https://img.shields.io/badge/SQL-🗂️-yellow?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-🐘-blue?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)  [![Oracle](https://img.shields.io/badge/Oracle-🔴-red?style=for-the-badge&logo=oracle)](https://www.oracle.com/)  
 
 ### 🌐 Web Development  
-[![HTML](https://img.shields.io/badge/HTML-🌐-orange?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS](https://img.shields.io/badge/CSS-🎨-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-⚡-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![React](https://img.shields.io/badge/React-⚛️-blue?style=for-the-badge&logo=react)](https://reactjs.org/)  
-[![React Native](https://img.shields.io/badge/ReactNative-📱-purple?style=for-the-badge&logo=react)](https://reactnative.dev/)  
+[![HTML](https://img.shields.io/badge/HTML-🌐-orange?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS](https://img.shields.io/badge/CSS-🎨-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/JavaScript-⚡-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![React](https://img.shields.io/badge/React-⚛️-blue?style=for-the-badge&logo=react)](https://reactjs.org/)  [![React Native](https://img.shields.io/badge/ReactNative-📱-purple?style=for-the-badge&logo=react)](https://reactnative.dev/)  
 
 ### 📊 Visualization Tools  
-[![Power BI](https://img.shields.io/badge/PowerBI-📈-yellow?style=for-the-badge&logo=powerbi)](https://powerbi.microsoft.com/)  
-[![Tableau](https://img.shields.io/badge/Tableau-📊-blue?style=for-the-badge&logo=tableau)](https://www.tableau.com/)  
+[![Power BI](https://img.shields.io/badge/PowerBI-📈-yellow?style=for-the-badge&logo=powerbi)](https://powerbi.microsoft.com/)  [![Tableau](https://img.shields.io/badge/Tableau-📊-blue?style=for-the-badge&logo=tableau)](https://www.tableau.com/)  
 
 ---
 ## 🌐 Connect with Me  
