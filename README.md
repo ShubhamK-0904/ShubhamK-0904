@@ -1,6 +1,6 @@
 # 👋 Hi, I'm SHUBHAM  
 
-![Profile](https://img.shields.io/badge/dynamic/json?color=blue&label=Avatar&query=$.login&url=https://api.github.com/users/Ausra-824&logo=github&style=for-the-badge)
+![Profile](https://img.shields.io/badge/dynamic/json?color=blue&label=Avatar&query=$.login&url=https://api.github.com/users/Asura-824&logo=github&style=for-the-badge)
 
 #### 📊 Data Analyst | 🐍 Python & SQL Enthusiast | ☕ Java Developer | 🔥 PySpark Practitioner | ⚛️ React & React‑Native Developer | 📖 Data Storyteller | 🌐 Web Developer  
 
