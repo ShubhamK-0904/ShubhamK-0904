@@ -71,8 +71,6 @@ Every repository reflects my journey of combining **technical rigor with creativ
 
 ---
 
-![Gitstat](https://github-readme-stats.vercel.app/api?username=Asura-824&show_icons=true&theme=radical)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asura-824&layout=compact)
+![Gitstat](https://github-readme-stats.vercel.app/api?username=Asura-824&show_icons=true&theme=radical) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asura-824&layout=compact)
 
 ✨ _Thanks for stopping by! Explore my projects, and let’s connect if you share a passion for data._
