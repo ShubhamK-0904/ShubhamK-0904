@@ -1,13 +1,15 @@
 # 👋 Hi, I'm SHUBHAM  
+
 <div align="center">
   <img 
     src="https://avatars.githubusercontent.com/u/201357751?s=400&u=a97cd351d841dfd0fca99ffe961fbf42d4531130&v=4" 
     alt="Shubham Kadam" 
     width="200" 
     height="200" 
-    style="border-radius:50%; margin:0 auto 30px; box-shadow:0 4px 12px rgba(0,0,0,.3);" 
+    style="clip-path: circle(50%);" 
   />
 </div>
+
 #### 📊 Data Analyst | 🐍 Python & SQL Enthusiast | ☕ Java Developer | 🔥 PySpark Practitioner | ⚛️ React & React‑Native Developer | 📖 Data Storyteller | 🌐 Web Developer  
 
 - Turning **raw data into actionable insights**  
