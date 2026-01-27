@@ -1,4 +1,4 @@
-# 👋Hi, I'm Shubham
+## 👋Hi, I'm Shubham
 
 #### 📊 Data Analyst | 🐍 Python & SQL Enthusiast | ☕ Java Developer | 🔥 PySpark Practitioner | ⚛️ React & React‑Native Developer | 📖 Data Storyteller | 🌐 Web Developer  
 
@@ -8,7 +8,7 @@ Focused on making data **clear, accessible, and impactful**
 
 ---
 
-## 🌟 Welcome to My GitHub  
+### 🌟 Welcome to My GitHub  
 This is my creative and technical playground 🚀. Here you’ll find:  
 
 - 📂 **Projects** blending data analysis, software development, and storytelling  
@@ -20,10 +20,11 @@ This is my creative and technical playground 🚀. Here you’ll find:
 Every repository reflects my journey of combining **technical rigor with creative communication**.  
 
 ---
-## 🛠️ Skills & Toolkit  
+
+### 🛠️ Skills & Toolkit  
 
 #### 🚀 Languages & Libraries  
-[![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge&logo=python)](https://www.python.org/)  [![R](https://img.shields.io/badge/R-📊-lightblue?style=for-the-badge&logo=r)](https://www.r-project.org/)  [![Java](https://img.shields.io/badge/Java-☕-red?style=for-the-badge&logo=java)](https://www.java.com/)  [![PySpark](https://img.shields.io/badge/PySpark-🔥-orange?style=for-the-badge&logo=apachespark)](https://spark.apache.org/)  [![Pandas](https://img.shields.io/badge/Pandas-🐼-darkblue?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)  [![NumPy](https://img.shields.io/badge/NumPy-🔢-lightblue?style=for-the-badge&logo=numpy)](https://numpy.org/)  [![Matplotlib](https://img.shields.io/badge/Matplotlib-📈-green?style=for-the-badge&logo=plotly)](https://matplotlib.org/)  [![Seaborn](https://img.shields.io/badge/Seaborn-🌊-teal?style=for-the-badge&logo=plotly)](https://seaborn.pydata.org/)  
+[![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge&logo=python)](https://www.python.org/)  [![Java](https://img.shields.io/badge/Java-☕-red?style=for-the-badge&logo=java)](https://www.java.com/)  [![R](https://img.shields.io/badge/R-📊-lightblue?style=for-the-badge&logo=r)](https://www.r-project.org/)  [![PySpark](https://img.shields.io/badge/PySpark-🔥-orange?style=for-the-badge&logo=apachespark)](https://spark.apache.org/)  [![Pandas](https://img.shields.io/badge/Pandas-🐼-darkblue?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)  [![NumPy](https://img.shields.io/badge/NumPy-🔢-lightblue?style=for-the-badge&logo=numpy)](https://numpy.org/)  [![Matplotlib](https://img.shields.io/badge/Matplotlib-📈-green?style=for-the-badge&logo=plotly)](https://matplotlib.org/)  [![Seaborn](https://img.shields.io/badge/Seaborn-🌊-teal?style=for-the-badge&logo=plotly)](https://seaborn.pydata.org/)  [![JDBC](https://img.shields.io/badge/JDBC-🔗-darkgreen?style=for-the-badge&logo=java)](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)  [![Java Swing](https://img.shields.io/badge/Java%20Swing-🖼️-orange?style=for-the-badge&logo=java)](https://docs.oracle.com/javase/tutorial/uiswing/)  
 
 #### 🗄️ Databases  
 [![SQL](https://img.shields.io/badge/SQL-🗂️-yellow?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-🐘-blue?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)  [![Oracle](https://img.shields.io/badge/Oracle-🔴-red?style=for-the-badge&logo=oracle)](https://www.oracle.com/)  
@@ -35,7 +36,7 @@ Every repository reflects my journey of combining **technical rigor with creativ
 [![Power BI](https://img.shields.io/badge/PowerBI-📈-yellow?style=for-the-badge&logo=powerbi)](https://powerbi.microsoft.com/)  [![Tableau](https://img.shields.io/badge/Tableau-📊-blue?style=for-the-badge&logo=tableau)](https://www.tableau.com/)  
 
 ---
-## 🚀 Featured Projects  
+### 🚀 Featured Projects  
 
 #### 🎓 RJ College Attendance Portal  
 [![GitHub](https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github)](https://github.com/Asura-824/RJAttendPortal)  
@@ -83,15 +84,16 @@ Every repository reflects my journey of combining **technical rigor with creativ
 - **Tech Stack:** Web Development (HTML, CSS, JS)  
 - Revamped NGO platform for accessibility & outreach  
 - Responsive, user‑friendly design to maximize impact
+
 ---
 
-## 🏅 Certifications  
+### 🏅 Certifications  
 
 - [Data Analytics Certification](https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/)
   
 ---
 
-## 📈 Developer Activity & GitHub Metrics
+### 📈 Developer Activity & GitHub Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Asura-824&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" /> 
@@ -100,9 +102,10 @@ Every repository reflects my journey of combining **technical rigor with creativ
 </div>
 
 ---
-## 📞 Contact Me  
+### 📞 Contact Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubham-kadam-b8856031a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDrYMSIRFQeuRzoobVQ4G0g%3D%3D)  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Asura-824)  [![Email](https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail)](mailto:shubham85kadam@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-🌐-green?style=for-the-badge&logo=firefox)](https://asurashubh.netlify.app)  
 
 ---
+
 ✨ _Thanks for stopping by! Explore my projects, and let’s connect if you share a passion for data._  
