@@ -90,7 +90,7 @@ Every repository reflects my journey of combining **technical rigor with creativ
 
 ### 🏅 Certifications  
 
-- [Data Analytics Certification](https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/)
+- [Data Science Certification](https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/)
   
 ---
 
