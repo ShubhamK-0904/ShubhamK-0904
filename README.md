@@ -80,7 +80,8 @@ Every repository reflects my journey of combining **technical rigor with creativ
 - Showcases integration of backend logic with frontend play  
 
 
-#### 🌍 SWIS Foundation  
+#### 🌍 SWIS Foundation 
+[![GitHub](https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github)](https://github.com/Asura-824/SWIS-Institute)  
 - **Tech Stack:** Web Development (HTML, CSS, JS)  
 - Revamped NGO platform for accessibility & outreach  
 - Responsive, user‑friendly design to maximize impact
