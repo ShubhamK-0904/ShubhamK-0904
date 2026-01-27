@@ -70,9 +70,8 @@ Every repository reflects my journey of combining **technical rigor with creativ
 - [Data Analytics Certification](https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/)  
 
 ---
-
+## Developer Activity & GitHub Metrics
 <div align="center">
-  <h1>GitHub Stats</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=Asura-824&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asura-824&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asura-824&theme=react-dark&border_radius=10">
