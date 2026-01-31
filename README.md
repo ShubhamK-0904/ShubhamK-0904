@@ -111,7 +111,3 @@ Every repository reflects my journey of combining **technical rigor with creativ
 ---
 
 ✨ _Thanks for stopping by! Explore my projects, and let’s connect if you share a passion for data._ 
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asura-824&theme=radical" 
-     alt="GitHub Stats" 
-     style="border: 4px solid blue; border-radius: 12px;" />
