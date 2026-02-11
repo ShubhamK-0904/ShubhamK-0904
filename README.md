@@ -111,4 +111,13 @@ Every repository reflects my journey of combining **technical rigor with creativ
 
 ---
 
+### 📊 GitHub Stats & Badges
+
+![Profile Views](https://komarev.com/ghpvc/?username=Asura-824&color=blue&style=flat-square&label=Profile%20Views)
+![Visits](https://badges.pufler.dev/visits/Asura-824/Asura-824)
+![Years](https://badges.pufler.dev/years/Asura-824)
+![Repos](https://badges.pufler.dev/repos/Asura-824)
+![Commits](https://badges.pufler.dev/commits/Asura-824)
+
+---
 ✨ _Thanks for stopping by! Explore my projects, and let’s connect if you share a passion for data._ 
