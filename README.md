@@ -94,7 +94,7 @@ Every repository reflects my journey of combining **technical rigor with creativ
   
 ---
 
-### 📈 Developer Activity & GitHub Metrics
+#### 📈 Developer Activity & GitHub Metrics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asura-824&theme=radical" alt="GitHub Stats" />
