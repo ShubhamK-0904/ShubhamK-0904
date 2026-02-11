@@ -4,7 +4,9 @@
 
 Turning **raw data into actionable insights**  
 Skilled across **Python, SQL, Java, PySpark, React, React‑Native, R, and modern visualization tools**  
-Focused on making data **clear, accessible, and impactful**  
+Focused on making data **clear, accessible, and impactful** 
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Asura-824.Asura-824)
 
 ---
 
