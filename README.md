@@ -39,49 +39,49 @@ Every repository reflects my journey of combining **technical rigor with creativ
 ### 🚀 Featured Projects  
 
 #### 🎓 RJ College Attendance Portal  
-[![GitHub](https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github)](https://github.com/Asura-824/RJAttendPortal)  
+[![GitHub](https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github)](https://github.com/ShubhamK-0904/RJAttendPortal)  
 - **Tech Stack:** Java Swing, PostgreSQL  
 - Secure login system with database integration  
 - Designed for managing student & staff attendance efficiently  
 
 
 #### 🚗 Electric Vehicle WA  
-[![GitHub](https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github)](https://github.com/shubh645/Electric-Vehicle-WA)  
+[![GitHub](https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github)](https://github.com/ShubhamK-0904/Electric-Vehicle-WA)  
 - **Tech Stack:** PySpark, Pandas, Seaborn, Spark ML  
 - Exploratory Data Analysis on WA EV dataset  
 - Forecasting Tesla registrations with machine learning  
 
 
 #### 📊 Indian Census 2011 Analysis  
-[![GitHub](https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github)](https://github.com/shubh645/IND-Census-2011--analysis)  
+[![GitHub](https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github)](https://github.com/ShubhamK-0904/IND-Census-2011--analysis)  
 - **Tech Stack:** Python, Data Visualization Libraries  
 - Deep dive into population trends & demographics  
 - Social insights presented through clear visualizations  
 
 
 #### 💻 CodeQuotient Showcase  
-[![GitHub](https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github)](https://github.com/Asura-824/CodeQuotient)  
+[![GitHub](https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github)](https://github.com/ShubhamK-0904/CodeQuotient)  
 - **Tech Stack:** Web Technologies (HTML, CSS, JS)  
 - Collection of projects, tutorials, challenges & datasets  
 - Includes a free compiler for learners  
 
 
 #### 👤 Face Detection  
-[![GitHub](https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github)](https://github.com/Asura-824/Face-detection)  
+[![GitHub](https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github)](https://github.com/ShubhamK-0904/Face-detection)  
 - **Tech Stack:** Python, OpenCV  
 - Real‑time face detection using Haar Cascade  
 - Highlights detected faces with bounding boxes  
 
 
 #### 🎮 Rock‑Paper‑Scissor Game  
-[![GitHub](https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github)](https://github.com/Asura-824/Rock-Paper-Scissor)  
+[![GitHub](https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github)](https://github.com/ShubhamK-0904/Rock-Paper-Scissor)  
 - **Tech Stack:** Python (logic), JavaScript (browser play)  
 - Fun, interactive, and cross‑platform game  
 - Showcases integration of backend logic with frontend play  
 
 
 #### 🌍 SWIS Foundation 
-[![GitHub](https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github)](https://github.com/Asura-824/SWIS-Institute)  
+[![GitHub](https://img.shields.io/badge/View%20Repo-black?style=for-the-badge&logo=github)](https://github.com/ShubhamK-0904/SWIS-Institute)  
 - **Tech Stack:** Web Development (HTML, CSS, JS)  
 - Revamped NGO platform for accessibility & outreach  
 - Responsive, user‑friendly design to maximize impact
@@ -97,16 +97,16 @@ Every repository reflects my journey of combining **technical rigor with creativ
 ### 📈 Github stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asura-824&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asura-824&layout=compact&theme=radical&border_radius=10" alt="Top Languages" /> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asura-824&theme=react-dark" style="border-radius:20px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamK-0904&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamK-0904&layout=compact&theme=radical&border_radius=10" alt="Top Languages" /> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamK-0904&theme=react-dark" style="border-radius:20px;" />
 </div>
 
 ---
 
 ### 📞 Contact me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubham-kadam-b8856031a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDrYMSIRFQeuRzoobVQ4G0g%3D%3D)  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Asura-824)  [![Email](https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail)](mailto:shubham85kadam@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-🌐-green?style=for-the-badge&logo=firefox)](https://asurashubh.netlify.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubham-kadam-b8856031a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDrYMSIRFQeuRzoobVQ4G0g%3D%3D)  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ShubhamK-0904)  [![Email](https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail)](mailto:shubham85kadam@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-🌐-green?style=for-the-badge&logo=firefox)](https://shubham-kadam.netlify.app/)  
 
 ---
 
