@@ -106,7 +106,7 @@ Every repository reflects my journey of combining **technical rigor with creativ
 
 ### 📞 Contact me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubham-s-kadam)  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ShubhamK-0904)  [![Email](https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail)](mailto:shubham85kadam@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-🌐-green?style=for-the-badge&logo=firefox)](https://shubham-kadam.netlify.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubham-kadam-b8856031a)  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ShubhamK-0904)  [![Email](https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail)](mailto:shubham85kadam@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-🌐-green?style=for-the-badge&logo=firefox)](https://shubham-kadam.netlify.app/)  
 
 ---
 
