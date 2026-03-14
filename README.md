@@ -73,35 +73,37 @@ Here’s what you’ll discover:
 
 ---
 
-### 🏅 Certifications  
+## 🏅 Certifications  
 
 <table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Data%20Science-Internshala-blue?style=for-the-badge&logo=google-scholar" alt="Data Science Certification"/><br>
-      <b>Data Science Certification</b><br>
-      <i>Internshala Trainings</i><br>
-      <a href="https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/">View Certificate</a>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Generative%20AI-Simplilearn-purple?style=for-the-badge&logo=googlecloud" alt="Generative AI Studio"/><br>
-      <b>Introduction to Generative AI Studio</b><br>
-      <i>Simplilearn</i><br>
-      <a href="https://simpli-web.app.link/e/oei0cyAav1b">View Certificate</a>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/SQL%20for%20Data%20Analysis-LinkedIn%20Learning-green?style=for-the-badge&logo=postgresql" alt="SQL for Data Analysis"/><br>
-      <b>SQL for Data Analysis</b><br>
-      <i>LinkedIn Learning</i><br>
-      <a href="https://www.linkedin.com/learning/certificates/801e23a82c6419cf0bc866fb309f72aea7eb1b12b50bbc3507cdbb8de8abc9fa?trk=share_certificate">View Certificate</a>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Certification-Coming%20Soon-orange?style=for-the-badge&logo=certificate" alt="Placeholder Certificate"/><br>
-      <b>More Certifications</b><br>
-      <i>Stay Tuned</i><br>
-      <a href="#">View Certificate</a>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Badge</th>
+      <th>Certificate</th>
+      <th>Provider</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge&logo=google-scholar" alt="Data Science Badge"/></td>
+      <td><b>Data Science Certification</b></td>
+      <td>Internshala Trainings</td>
+      <td><a href="https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/">View Certificate</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge&logo=googlecloud" alt="Generative AI Badge"/></td>
+      <td><b>Introduction to Generative AI Studio</b></td>
+      <td>Simplilearn</td>
+      <td><a href="https://simpli-web.app.link/e/oei0cyAav1b">View Certificate</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/SQL%20for%20Data%20Analysis-green?style=for-the-badge&logo=postgresql" alt="SQL Badge"/></td>
+      <td><b>SQL for Data Analysis</b></td>
+      <td>LinkedIn Learning</td>
+      <td><a href="https://www.linkedin.com/learning/certificates/801e23a82c6419cf0bc866fb309f72aea7eb1b12b50bbc3507cdbb8de8abc9fa?trk=share_certificate">View Certificate</a></td>
+    </tr>
+  </tbody>
 </table>
 
 ---
