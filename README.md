@@ -64,21 +64,6 @@ Here’s what you’ll discover:
       <td>Deep dive into demographics, clear social insights via visualizations</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ShubhamK-0904/CodeQuotient">💻 CodeQuotient Showcase</a></td>
-      <td>HTML, CSS, JavaScript</td>
-      <td>Tutorials, challenges, datasets, free compiler for learners</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ShubhamK-0904/Face-detection">👤 Face Detection</a></td>
-      <td>Python, OpenCV</td>
-      <td>Real‑time detection using Haar Cascade, bounding box highlights</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ShubhamK-0904/Rock-Paper-Scissor">🎮 Rock‑Paper‑Scissor Game</a></td>
-      <td>Python (logic), JavaScript (frontend)</td>
-      <td>Fun, interactive, cross‑platform play, backend + frontend integration</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/ShubhamK-0904/SWIS-Institute">🌍 SWIS Foundation</a></td>
       <td>HTML, CSS, JavaScript</td>
       <td>Revamped NGO platform, responsive design, accessibility & outreach</td>
