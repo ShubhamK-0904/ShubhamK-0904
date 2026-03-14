@@ -73,11 +73,30 @@ Here’s what you’ll discover:
 
 ---
 
-### 🏅 Certifications  
+## 🏅 Certifications  
 
-- [Data Science Certification](https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/)  
-- [Introduction to Generative AI Studio](https://simpli-web.app.link/e/oei0cyAav1b)
-- [SQL for Data Analysis](https://www.linkedin.com/learning/certificates/801e23a82c6419cf0bc866fb309f72aea7eb1b12b50bbc3507cdbb8de8abc9fa?trk=share_certificate)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Data%20Science-Internshala-blue?style=for-the-badge&logo=google-scholar" alt="Data Science Certification"/><br>
+      <b>Data Science Certification</b><br>
+      <i>Internshala Trainings</i><br>
+      <a href="https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/">View Certificate</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Generative%20AI-Simplilearn-purple?style=for-the-badge&logo=googlecloud" alt="Generative AI Studio"/><br>
+      <b>Introduction to Generative AI Studio</b><br>
+      <i>Simplilearn</i><br>
+      <a href="https://simpli-web.app.link/e/oei0cyAav1b">View Certificate</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/SQL%20for%20Data%20Analysis-LinkedIn%20Learning-green?style=for-the-badge&logo=postgresql" alt="SQL for Data Analysis"/><br>
+      <b>SQL for Data Analysis</b><br>
+      <i>LinkedIn Learning</i><br>
+      <a href="https://www.linkedin.com/learning/certificates/801e23a82c6419cf0bc866fb309f72aea7eb1b12b50bbc3507cdbb8de8abc9fa?trk=share_certificate">View Certificate</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
