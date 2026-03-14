@@ -23,16 +23,16 @@ Here’s what you’ll discover:
 
 ### 🛠️ Skills & Toolkit  
 
-### 🚀 Languages & Libraries  
+#### 🚀 Languages & Libraries  
 ![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge&logo=python)  ![Java](https://img.shields.io/badge/Java-☕-red?style=for-the-badge&logo=java)  ![Java Servlet](https://img.shields.io/badge/Java%20Servlet-🌐-brown?style=for-the-badge&logo=java)  ![R](https://img.shields.io/badge/R-📊-lightblue?style=for-the-badge&logo=r)  ![PySpark](https://img.shields.io/badge/PySpark-🔥-orange?style=for-the-badge&logo=apachespark)  ![Pandas](https://img.shields.io/badge/Pandas-🐼-darkblue?style=for-the-badge&logo=pandas)  ![NumPy](https://img.shields.io/badge/NumPy-🔢-lightblue?style=for-the-badge&logo=numpy)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-📈-green?style=for-the-badge&logo=plotly)  ![Seaborn](https://img.shields.io/badge/Seaborn-🌊-teal?style=for-the-badge&logo=plotly)  ![JDBC](https://img.shields.io/badge/JDBC-🔗-darkgreen?style=for-the-badge&logo=java)  ![Java Swing](https://img.shields.io/badge/Java%20Swing-🖼️-orange?style=for-the-badge&logo=java)  
 
-### 🗄️ Databases  
+#### 🗄️ Databases  
 ![SQL](https://img.shields.io/badge/SQL-🗂️-yellow?style=for-the-badge&logo=postgresql)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-🐘-blue?style=for-the-badge&logo=postgresql)  ![Oracle](https://img.shields.io/badge/Oracle-🔴-red?style=for-the-badge&logo=oracle)  
 
-### 🌐 Web Development  
+#### 🌐 Web Development  
 ![HTML](https://img.shields.io/badge/HTML-🌐-orange?style=for-the-badge&logo=html5)  ![CSS](https://img.shields.io/badge/CSS-🎨-blue?style=for-the-badge&logo=css3)  ![JavaScript](https://img.shields.io/badge/JavaScript-⚡-yellow?style=for-the-badge&logo=javascript)  ![React](https://img.shields.io/badge/React-⚛️-blue?style=for-the-badge&logo=react)  ![React Native](https://img.shields.io/badge/ReactNative-📱-purple?style=for-the-badge&logo=react)  
 
-### 📊 Visualization Tools  
+#### 📊 Visualization Tools  
 ![Power BI](https://img.shields.io/badge/PowerBI-📈-yellow?style=for-the-badge&logo=powerbi)  ![Tableau](https://img.shields.io/badge/Tableau-📊-blue?style=for-the-badge&logo=tableau)  
 
 ---
