@@ -105,10 +105,6 @@ Here’s what you’ll discover:
   <img src="https://github-readme-stats.vercel.app/api?username=ShubhamK-0904&show_icons=true&theme=gruvbox&border_radius=10" alt="GitHub Overall Stats" />  
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamK-0904&layout=compact&theme=onedark&border_radius=10" alt="Top Languages" />  
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamK-0904&theme=github-compact" style="border-radius:20px;" />  
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamK-0904&theme=dracula&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />  
 </div>  
 
 ---
