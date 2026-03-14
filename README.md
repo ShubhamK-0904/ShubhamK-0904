@@ -45,51 +45,43 @@ Here’s what you’ll discover:
       <th>Project</th>
       <th>Tech Stack</th>
       <th>Highlights</th>
-      <th>Repo Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>🎓 RJ College Attendance Portal</td>
+      <td><a href="https://github.com/ShubhamK-0904/RJAttendPortal">🎓 RJ College Attendance Portal</a></td>
       <td>Java Swing, PostgreSQL</td>
       <td>Secure login system, database integration, efficient attendance management</td>
-      <td><a href="https://github.com/ShubhamK-0904/RJAttendPortal">View Repo</a></td>
     </tr>
     <tr>
-      <td>🚗 Electric Vehicle WA</td>
+      <td><a href="https://github.com/ShubhamK-0904/Electric-Vehicle-WA">🚗 Electric Vehicle WA</a></td>
       <td>PySpark, Pandas, Seaborn, Spark ML</td>
       <td>EDA on WA EV dataset, Tesla registration forecasting with ML</td>
-      <td><a href="https://github.com/ShubhamK-0904/Electric-Vehicle-WA">View Repo</a></td>
     </tr>
     <tr>
-      <td>📊 Indian Census 2011 Analysis</td>
+      <td><a href="https://github.com/ShubhamK-0904/IND-Census-2011--analysis">📊 Indian Census 2011 Analysis</a></td>
       <td>Python, Visualization Libraries</td>
       <td>Deep dive into demographics, clear social insights via visualizations</td>
-      <td><a href="https://github.com/ShubhamK-0904/IND-Census-2011--analysis">View Repo</a></td>
     </tr>
     <tr>
-      <td>💻 CodeQuotient Showcase</td>
+      <td><a href="https://github.com/ShubhamK-0904/CodeQuotient">💻 CodeQuotient Showcase</a></td>
       <td>HTML, CSS, JavaScript</td>
       <td>Tutorials, challenges, datasets, free compiler for learners</td>
-      <td><a href="https://github.com/ShubhamK-0904/CodeQuotient">View Repo</a></td>
     </tr>
     <tr>
-      <td>👤 Face Detection</td>
+      <td><a href="https://github.com/ShubhamK-0904/Face-detection">👤 Face Detection</a></td>
       <td>Python, OpenCV</td>
       <td>Real‑time detection using Haar Cascade, bounding box highlights</td>
-      <td><a href="https://github.com/ShubhamK-0904/Face-detection">View Repo</a></td>
     </tr>
     <tr>
-      <td>🎮 Rock‑Paper‑Scissor Game</td>
+      <td><a href="https://github.com/ShubhamK-0904/Rock-Paper-Scissor">🎮 Rock‑Paper‑Scissor Game</a></td>
       <td>Python (logic), JavaScript (frontend)</td>
       <td>Fun, interactive, cross‑platform play, backend + frontend integration</td>
-      <td><a href="https://github.com/ShubhamK-0904/Rock-Paper-Scissor">View Repo</a></td>
     </tr>
     <tr>
-      <td>🌍 SWIS Foundation</td>
+      <td><a href="https://github.com/ShubhamK-0904/SWIS-Institute">🌍 SWIS Foundation</a></td>
       <td>HTML, CSS, JavaScript</td>
       <td>Revamped NGO platform, responsive design, accessibility & outreach</td>
-      <td><a href="https://github.com/ShubhamK-0904/SWIS-Institute">View Repo</a></td>
     </tr>
   </tbody>
 </table>
