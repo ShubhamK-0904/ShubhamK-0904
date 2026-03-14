@@ -99,12 +99,12 @@ Here’s what you’ll discover:
 ## 📈 GitHub Stats  
 
 <div align="center">  
-  <!-- Streak Stats (different style) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamK-0904&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />  
-  <!-- Overall Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamK-0904&show_icons=true&theme=gruvbox&border_radius=10" alt="GitHub Overall Stats" />  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamK-0904&layout=compact&theme=onedark&border_radius=10" alt="Top Languages" />  
+  <!-- Streak Stats (Dark Theme) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamK-0904&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />  
+  <!-- Overall Stats Card (Dark Theme) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamK-0904&show_icons=true&theme=radical&border_radius=10" alt="GitHub Overall Stats" />  
+  <!-- Top Languages (Dark Theme) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamK-0904&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />  
 </div>  
 
 ---
