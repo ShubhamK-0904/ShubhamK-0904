@@ -39,13 +39,68 @@ Here’s what you’ll discover:
 
 ## 🚀 Featured Projects  
 
-- 🎓 [RJ College Attendance Portal](https://github.com/ShubhamK-0904/RJAttendPortal) – Java Swing + PostgreSQL  
-- 🚗 [Electric Vehicle WA](https://github.com/ShubhamK-0904/Electric-Vehicle-WA) – PySpark, ML forecasting  
-- 📊 [Indian Census 2011 Analysis](https://github.com/ShubhamK-0904/IND-Census-2011--analysis) – Python + Visualization  
-- 💻 [CodeQuotient Showcase](https://github.com/ShubhamK-0904/CodeQuotient) – Web tutorials & compiler  
-- 👤 [Face Detection](https://github.com/ShubhamK-0904/Face-detection) – Python + OpenCV  
-- 🎮 [Rock‑Paper‑Scissor Game](https://github.com/ShubhamK-0904/Rock-Paper-Scissor) – Python + JS  
-- 🌍 [SWIS Foundation](https://github.com/ShubhamK-0904/SWIS-Institute) – NGO platform redesign  
+<details>
+  <summary>🎓 RJ College Attendance Portal</summary>
+  <br>
+  🔹 **Tech Stack:** Java Swing, PostgreSQL  
+  🔹 Secure login system with database integration  
+  🔹 Designed for managing student & staff attendance efficiently  
+  🔹 [View Repository](https://github.com/ShubhamK-0904/RJAttendPortal)  
+</details>
+
+<details>
+  <summary>🚗 Electric Vehicle WA</summary>
+  <br>
+  🔹 **Tech Stack:** PySpark, Pandas, Seaborn, Spark ML  
+  🔹 Exploratory Data Analysis on WA EV dataset  
+  🔹 Forecasting Tesla registrations with machine learning  
+  🔹 [View Repository](https://github.com/ShubhamK-0904/Electric-Vehicle-WA)  
+</details>
+
+<details>
+  <summary>📊 Indian Census 2011 Analysis</summary>
+  <br>
+  🔹 **Tech Stack:** Python, Data Visualization Libraries  
+  🔹 Deep dive into population trends & demographics  
+  🔹 Social insights presented through clear visualizations  
+  🔹 [View Repository](https://github.com/ShubhamK-0904/IND-Census-2011--analysis)  
+</details>
+
+<details>
+  <summary>💻 CodeQuotient Showcase</summary>
+  <br>
+  🔹 **Tech Stack:** Web Technologies (HTML, CSS, JS)  
+  🔹 Collection of projects, tutorials, challenges & datasets  
+  🔹 Includes a free compiler for learners  
+  🔹 [View Repository](https://github.com/ShubhamK-0904/CodeQuotient)  
+</details>
+
+<details>
+  <summary>👤 Face Detection</summary>
+  <br>
+  🔹 **Tech Stack:** Python, OpenCV  
+  🔹 Real‑time face detection using Haar Cascade  
+  🔹 Highlights detected faces with bounding boxes  
+  🔹 [View Repository](https://github.com/ShubhamK-0904/Face-detection)  
+</details>
+
+<details>
+  <summary>🎮 Rock‑Paper‑Scissor Game</summary>
+  <br>
+  🔹 **Tech Stack:** Python (logic), JavaScript (browser play)  
+  🔹 Fun, interactive, and cross‑platform game  
+  🔹 Showcases integration of backend logic with frontend play  
+  🔹 [View Repository](https://github.com/ShubhamK-0904/Rock-Paper-Scissor)  
+</details>
+
+<details>
+  <summary>🌍 SWIS Foundation</summary>
+  <br>
+  🔹 **Tech Stack:** Web Development (HTML, CSS, JS)  
+  🔹 Revamped NGO platform for accessibility & outreach  
+  🔹 Responsive, user‑friendly design to maximize impact  
+  🔹 [View Repository](https://github.com/ShubhamK-0904/SWIS-Institute)  
+</details>
 
 ---
 
