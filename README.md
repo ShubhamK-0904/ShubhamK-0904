@@ -96,12 +96,19 @@ Here’s what you’ll discover:
 
 ---
 
-### 📈 GitHub Stats  
+## 📈 GitHub Stats  
 
 <div align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamK-0904&theme=radical&hide_border=true" alt="GitHub Streak Stats" />   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamK-0904&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamK-0904&theme=react-dark" style="border-radius:20px;" />  
+  <!-- Streak Stats (different style) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamK-0904&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />  
+  <!-- Overall Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamK-0904&show_icons=true&theme=gruvbox&border_radius=10" alt="GitHub Overall Stats" />  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamK-0904&layout=compact&theme=onedark&border_radius=10" alt="Top Languages" />  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamK-0904&theme=github-compact" style="border-radius:20px;" />  
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamK-0904&theme=dracula&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />  
 </div>  
 
 ---
