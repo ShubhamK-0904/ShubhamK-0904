@@ -99,7 +99,7 @@ Here’s what you’ll discover:
 ### 📈 GitHub Stats  
 
 <div align="center">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamK-0904&theme=radical" alt="GitHub Stats" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamK-0904&theme=radical&hide_border=true" alt="GitHub Streak Stats" />   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamK-0904&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamK-0904&theme=react-dark" style="border-radius:20px;" />  
 </div>  
