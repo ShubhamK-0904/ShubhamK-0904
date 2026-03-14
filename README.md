@@ -8,7 +8,7 @@
 
 ---
 
-## 🌟 Welcome to My GitHub Playground 🚀  
+### 🌟 Welcome to My GitHub Playground 🚀  
 
 Here’s what you’ll discover:  
 - 📂 **Projects** blending data analysis, software development, and storytelling  
@@ -21,7 +21,7 @@ Here’s what you’ll discover:
 
 ---
 
-## 🛠️ Skills & Toolkit  
+### 🛠️ Skills & Toolkit  
 
 ### 🚀 Languages & Libraries  
 ![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge&logo=python)  ![Java](https://img.shields.io/badge/Java-☕-red?style=for-the-badge&logo=java)  ![Java Servlet](https://img.shields.io/badge/Java%20Servlet-🌐-brown?style=for-the-badge&logo=java)  ![R](https://img.shields.io/badge/R-📊-lightblue?style=for-the-badge&logo=r)  ![PySpark](https://img.shields.io/badge/PySpark-🔥-orange?style=for-the-badge&logo=apachespark)  ![Pandas](https://img.shields.io/badge/Pandas-🐼-darkblue?style=for-the-badge&logo=pandas)  ![NumPy](https://img.shields.io/badge/NumPy-🔢-lightblue?style=for-the-badge&logo=numpy)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-📈-green?style=for-the-badge&logo=plotly)  ![Seaborn](https://img.shields.io/badge/Seaborn-🌊-teal?style=for-the-badge&logo=plotly)  ![JDBC](https://img.shields.io/badge/JDBC-🔗-darkgreen?style=for-the-badge&logo=java)  ![Java Swing](https://img.shields.io/badge/Java%20Swing-🖼️-orange?style=for-the-badge&logo=java)  
@@ -49,7 +49,7 @@ Here’s what you’ll discover:
 
 ---
 
-## 🏅 Certifications  
+### 🏅 Certifications  
 
 - [Data Science Certification](https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/)  
 - [Introduction to Generative AI Studio](https://simpli-web.app.link/e/oei0cyAav1b)
@@ -57,7 +57,7 @@ Here’s what you’ll discover:
 
 ---
 
-## 📈 GitHub Stats  
+### 📈 GitHub Stats  
 
 <div align="center">  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamK-0904&theme=radical" alt="GitHub Stats" />  
@@ -67,7 +67,7 @@ Here’s what you’ll discover:
 
 ---
 
-## 📞 Let’s Connect  
+### 📞 Let’s Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubham-kadam-b8856031a)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ShubhamK-0904)  
