@@ -1,5 +1,9 @@
 ## 👋 Hey there, I'm **Shubham Kadam**
 
+## 👤 Profile  
+
+![Profile Image](https://avatars.githubusercontent.com/u/ShubhamK-0904?v=4)
+
 #### 📊 Data Analyst | 🐍 Python & SQL Enthusiast | ☕ Java Developer | 🔥 PySpark Practitioner | ⚛️ React & React‑Native Developer | 📖 Data Storyteller | 🌐 Web Developer  
 
 💡 **Turning raw data into actionable insights**  
