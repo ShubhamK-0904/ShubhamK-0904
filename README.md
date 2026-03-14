@@ -87,21 +87,21 @@ Here’s what you’ll discover:
   <tbody>
     <tr>
       <td><img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge&logo=google-scholar" alt="Data Science Badge"/></td>
-      <td><b>Data Science Certification</b></td>
+      <td><a href="https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/"><b>Data Science Certification</b></a></td>
       <td>Internshala Trainings</td>
-      <td><a href="https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/">View Certificate</a></td>
+      <td>✔️</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge&logo=googlecloud" alt="Generative AI Badge"/></td>
-      <td><b>Introduction to Generative AI Studio</b></td>
+      <td><a href="https://simpli-web.app.link/e/oei0cyAav1b"><b>Introduction to Generative AI Studio</b></a></td>
       <td>Simplilearn</td>
-      <td><a href="https://simpli-web.app.link/e/oei0cyAav1b">View Certificate</a></td>
+      <td>✔️</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/SQL%20for%20Data%20Analysis-green?style=for-the-badge&logo=postgresql" alt="SQL Badge"/></td>
-      <td><b>SQL for Data Analysis</b></td>
+      <td><a href="https://www.linkedin.com/learning/certificates/801e23a82c6419cf0bc866fb309f72aea7eb1b12b50bbc3507cdbb8de8abc9fa?trk=share_certificate"><b>SQL for Data Analysis</b></a></td>
       <td>LinkedIn Learning</td>
-      <td><a href="https://www.linkedin.com/learning/certificates/801e23a82c6419cf0bc866fb309f72aea7eb1b12b50bbc3507cdbb8de8abc9fa?trk=share_certificate">View Certificate</a></td>
+      <td>✔️</td>
     </tr>
   </tbody>
 </table>
