@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-💡 **Turning raw data into actionable insights**  <br>
-🎯 Skilled across **Python, SQL, Java, PySpark, React, React‑Native, R, and modern visualization tools**  <br>
-📌 Focused on making data **clear, accessible, and impactful**  
+💡 <strong>Turning raw data into actionable insights</strong>  <br>
+🎯 <strong>Skilled across Python, SQL, Java, PySpark, React, React‑Native, R, and modern visualization tools</strong>  <br>
+📌 <strong>Focused on making data clear, accessible, and impactful</strong>
 </p>
 
 <p align="center">
