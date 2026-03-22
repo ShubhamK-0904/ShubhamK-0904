@@ -1,32 +1,32 @@
 # 👋 Hey there, I'm **Shubham Kadam**
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; align-items: center;">
 
-💡 **Turning raw data into actionable insights**  
-🎯 Skilled across **Python, SQL, Java, PySpark, React, React‑Native, R, and modern visualization tools**  
-📌 Focused on making data **clear, accessible, and impactful**  
+  <!-- Info Section -->
+  <div>
+    <h3>💡 About Me</h3>
+    <p><b>Turning raw data into actionable insights</b></p>
+    <p>🎯 Skilled across <b>Python, SQL, Java, PySpark, React, React‑Native, R, and modern visualization tools</b></p>
+    <p>📌 Focused on making data <b>clear, accessible, and impactful</b></p>
+    <p>🔍 Passionate about <b>data storytelling</b> — transforming complex datasets into dashboards, reports, and narratives that drive decisions.</p>
+    <p>🛠️ Experienced in <b>building full‑stack applications</b> with Java, React, and TailwindCSS, ensuring both functionality and user‑friendly design.</p>
+    <p>📊 Strong foundation in <b>data analysis & visualization</b> using Power BI, Tableau, Pandas, and Seaborn.</p>
+    <p>🚀 Currently exploring <b>advanced machine learning workflows</b> with PySpark and Spark ML for scalable data solutions.</p>
+    <p>🌱 Always learning — pursuing certifications, internships, and projects to sharpen my skills and stay ahead in tech.</p>
+    <p>🤝 Open to <b>collaboration, internships, and hybrid/remote opportunities</b> in Data Analysis, Java Development, and Front‑End Development.</p>
+  </div>
 
-🔍 Passionate about **data storytelling** — transforming complex datasets into dashboards, reports, and narratives that drive decisions.  
-🛠️ Experienced in **building full‑stack applications** with Java, React, and TailwindCSS, ensuring both functionality and user‑friendly design.  
-📊 Strong foundation in **data analysis & visualization** using Power BI, Tableau, Pandas, and Seaborn.  
-🚀 Currently exploring **advanced machine learning workflows** with PySpark and Spark ML for scalable data solutions.  
-🌱 Always learning — pursuing certifications, internships, and projects to sharpen my skills and stay ahead in tech.  
-🤝 Open to **collaboration, internships, and hybrid/remote opportunities** in Data Analysis, Java Development, and Front‑End Development.  
+  <!-- GIF Section -->
+  <div align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+  </div>
 
-</td>
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Java+Developer+%7C+PySpark+Practitioner;React+%26+React-Native+Developer;Data+Storyteller+%7C+Web+Developer" alt="Typing Animation" />
 </p>
+
 
 
 ---
