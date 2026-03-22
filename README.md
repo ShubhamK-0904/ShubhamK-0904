@@ -1,6 +1,10 @@
 # 👋 Hey there, I'm **Shubham Kadam**
 
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/201357751?s=400&u=a97cd351d841dfd0fca99ffe961fbf42d4531130&v=4" width="150" style="border-radius:50%" alt="Profile Image"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Java+Developer+%7C+PySpark+Practitioner;React+%26+React-Native+Developer;Data+Storyteller+%7C+Web+Developer" alt="Typing Animation" />
 </p>
 
@@ -15,18 +19,16 @@
 ### 🚀 Languages & Libraries
 ![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge&logo=python)  ![Java](https://img.shields.io/badge/Java-☕-red?style=for-the-badge&logo=java)  ![Java Servlet](https://img.shields.io/badge/Java%20Servlet-🌐-brown?style=for-the-badge&logo=java)  ![Java Swing](https://img.shields.io/badge/Java%20Swing-🖼️-orange?style=for-the-badge&logo=java)  ![JDBC](https://img.shields.io/badge/JDBC-🔗-darkgreen?style=for-the-badge&logo=java)  ![R](https://img.shields.io/badge/R-📊-lightblue?style=for-the-badge&logo=r)  ![PySpark](https://img.shields.io/badge/PySpark-🔥-orange?style=for-the-badge&logo=apachespark)  ![Pandas](https://img.shields.io/badge/Pandas-🐼-darkblue?style=for-the-badge&logo=pandas)  ![NumPy](https://img.shields.io/badge/NumPy-🔢-lightblue?style=for-the-badge&logo=numpy)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-📈-green?style=for-the-badge&logo=plotly)  ![Seaborn](https://img.shields.io/badge/Seaborn-🌊-teal?style=for-the-badge&logo=plotly)  
 
-
 ### 🗄️ Databases
 ![SQL](https://img.shields.io/badge/SQL-🗂️-yellow?style=for-the-badge&logo=postgresql)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-🐘-blue?style=for-the-badge&logo=postgresql)  ![Oracle](https://img.shields.io/badge/Oracle-🔴-red?style=for-the-badge&logo=oracle)  
-
 
 ### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML-🌐-orange?style=for-the-badge&logo=html5)  ![CSS](https://img.shields.io/badge/CSS-🎨-blue?style=for-the-badge&logo=css3)  ![JavaScript](https://img.shields.io/badge/JavaScript-⚡-yellow?style=for-the-badge&logo=javascript)  ![React](https://img.shields.io/badge/React-⚛️-blue?style=for-the-badge&logo=react)  ![React Native](https://img.shields.io/badge/ReactNative-📱-purple?style=for-the-badge&logo=react)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-💠-cyan?style=for-the-badge&logo=tailwindcss)  
 
-
 ### 📊 Visualization Tools
 ![Power BI](https://img.shields.io/badge/PowerBI-📈-yellow?style=for-the-badge&logo=powerbi)  ![Tableau](https://img.shields.io/badge/Tableau-📊-blue?style=for-the-badge&logo=tableau)  
 
+---
 
 ## 🚀 Featured Projects
 
@@ -39,7 +41,6 @@
 
 ---
 
-
 ## 🏅 Certifications
 
 | Badge | Certification | Provider | Link |
@@ -47,7 +48,6 @@
 | ![Data Science](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge&logo=google-scholar) | **Data Science Certification** | Internshala Trainings | [🔗 View Certificate](https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/) |
 | ![Generative AI](https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge&logo=googlecloud) | **Introduction to Generative AI Studio** | Simplilearn | [🔗 View Certificate](https://simpli-web.app.link/e/oei0cyAav1b) |
 | ![SQL](https://img.shields.io/badge/SQL%20for%20Data%20Analysis-green?style=for-the-badge&logo=postgresql) | **SQL for Data Analysis** | LinkedIn Learning | [🔗 View Certificate](https://www.linkedin.com/learning/certificates/801e23a82c6419cf0bc866fb309f72aea7eb1b12b50bbc3507cdbb8de8abc9fa?trk=share_certificate) |
-
 
 ---
 
@@ -63,7 +63,11 @@
 
 ## 📞 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubham-kadam-b8856031a)  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ShubhamK-0904)  [![Email](https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail)](mailto:shubham85kadam@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-🌐-green?style=for-the-badge&logo=firefox)](https://shubhamkadam-portfolio.lovable.app/)  ![Profile Views](https://komarev.com/ghpvc/?username=ShubhamK-0904&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubham-kadam-b8856031a)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ShubhamK-0904)  
+[![Email](https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail)](mailto:shubham85kadam@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-🌐-green?style=for-the-badge&logo=firefox)](https://shubhamkadam-portfolio.lovable.app/)  
+![Profile Views](https://komarev.com/ghpvc/?username=ShubhamK-0904&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
