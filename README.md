@@ -8,11 +8,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Java+Developer+%7C+PySpark+Practitioner;React+%26+React-Native+Developer;Data+Storyteller+%7C+Web+Developer" alt="Typing Animation" />
 </p>
 
-💡 **Turning raw data into actionable insights**  
-🎯 Skilled across **Python, SQL, Java, PySpark, React, React‑Native, R, and modern visualization tools**  
+<p style="text-align:'center'">
+💡 **Turning raw data into actionable insights**  <br>
+🎯 Skilled across **Python, SQL, Java, PySpark, React, React‑Native, R, and modern visualization tools**  <br>
 📌 Focused on making data **clear, accessible, and impactful**  
-
-
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-kadam-b8856031a" target="_blank">
