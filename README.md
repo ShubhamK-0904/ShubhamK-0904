@@ -1,10 +1,22 @@
 # 👋 Hey there, I'm **Shubham Kadam**
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/201357751?s=400&u=a97cd351d841dfd0fca99ffe961fbf42d4531130&v=4" 
-       width="160" 
-       style="border-radius:50%; border: 4px solid #00F7FF; box-shadow: 0 0 20px #00F7FF; transition: transform 0.3s ease-in-out;" 
-       alt="Profile Image"/>
+  <!-- Hexagon Avatar -->
+  <div 
+    style="position: relative; width: 160px; height: 160px; margin: auto; background: linear-gradient(to bottom right, #00F7FF, #FF00FF, #00F7FF); padding: 3px; clip-path: polygon(25% 6.7%, 75% 6.7%, 100% 50%, 75% 93.3%, 25% 93.3%, 0% 50%);"
+  >
+    <div 
+      style="width: 100%; height: 100%; background: #0d1117; clip-path: polygon(25% 6.7%, 75% 6.7%, 100% 50%, 75% 93.3%, 25% 93.3%, 0% 50%);"
+    >
+      <img 
+        src="https://avatars.githubusercontent.com/u/201357751?s=400&u=a97cd351d841dfd0fca99ffe961fbf42d4531130&v=4" 
+        alt="Shubham Kadam" 
+        loading="eager" 
+        decoding="async" 
+        style="width: 100%; height: 100%; object-fit: cover; clip-path: polygon(25% 6.7%, 75% 6.7%, 100% 50%, 75% 93.3%, 25% 93.3%, 0% 50%);" 
+      />
+    </div>
+  </div>
 </p>
 
 <p align="center">
