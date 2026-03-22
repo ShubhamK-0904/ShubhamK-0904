@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm **Shubham Kadam**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Java+Developer+%7C+PySpark+Practitioner;React+%26+React-Native+Developer;Data+Storyteller+%7C+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Java+Developer+%7C+PySpark+Practitioner;React+%26+React-Native+Developer;Data+Storyteller+%7C+Web+Developer" alt="Typing SVG" />
 </p>
 
 💡 **Turning raw data into actionable insights**  
@@ -12,8 +12,8 @@
 
 ## 🌟 Welcome to My GitHub Playground 🚀
 
-<details>
-  <summary>✨ What you'll discover here (click to expand)</summary>
+<details open>
+  <summary><b>✨ Explore my world (click to expand/collapse)</b></summary>
 
 - 📂 **Projects** blending data analysis, software development, and storytelling  
 - 🧩 **Hands‑on experiments** with Python, SQL, PySpark, and Java for solving real‑world problems  
@@ -28,7 +28,7 @@
 ## 🛠️ Skills & Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,r,react,html,css,javascript,postgresql,oracle,powerbi,tableau" />
+  <img src="https://skillicons.dev/icons?i=python,java,r,react,html,css,javascript,postgresql,oracle,powerbi,tableau&theme=light" />
 </p>
 
 <details>
@@ -84,5 +84,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ShubhamK-0904&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" alt="Animated Data GIF"/>
+</p>
 
 ✨ _Thanks for stopping by! Dive into my projects, explore the dashboards, and let’s collaborate if you share a passion for data._
