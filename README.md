@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm **Shubham Kadam**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Java+Developer+%7C+PySpark+Practitioner;React+%26+React-Native+Developer;Data+Storyteller+%7C+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Java+Developer+%7C+PySpark+Practitioner;React+%26+React-Native+Developer;Data+Storyteller+%7C+Web+Developer" alt="Typing Animation" />
 </p>
 
 💡 **Turning raw data into actionable insights**  
@@ -10,18 +10,48 @@
 
 ---
 
-## 🌟 Welcome to My GitHub Playground 🚀
+## 👨‍💻 About Me
 
-<details open>
-  <summary><b>✨ Explore my world (click to expand/collapse)</b></summary>
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250" alt="Data GIF"/>
+</p>
 
-- 📂 **Projects** blending data analysis, software development, and storytelling  
-- 🧩 **Hands‑on experiments** with Python, SQL, PySpark, and Java for solving real‑world problems  
-- 🎨 **Interactive dashboards & apps** built with React, React‑Native, Power BI, and Tableau  
-- 📖 **Learning resources** — tutorials, compilers, and datasets to help others grow  
-- 🌍 **Impactful initiatives** — NGO platforms and educational tools designed for accessibility and outreach  
-
-</details>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="120" alt="Python GIF"/><br>
+      <b>Python & SQL</b><br>
+      Pandas, NumPy, PySpark, PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="120" alt="React GIF"/><br>
+      <b>Frontend Developer</b><br>
+      React, React Native, Tailwind CSS
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="Java GIF"/><br>
+      <b>Java Developer</b><br>
+      Java Swing, JDBC, Servlets
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120" alt="Visualization GIF"/><br>
+      <b>Data Storyteller</b><br>
+      Power BI, Tableau, Matplotlib, Seaborn
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" alt="Web GIF"/><br>
+      <b>Web Developer</b><br>
+      HTML, CSS, JavaScript
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="120" alt="Creative GIF"/><br>
+      <b>Creative Communicator</b><br>
+      Blending tech with storytelling
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -30,19 +60,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,r,react,html,css,javascript,postgresql,oracle,powerbi,tableau&theme=light" />
 </p>
-
-<details>
-  <summary>🚀 Languages & Libraries</summary>
-  
-  ![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge&logo=python)  
-  ![Java](https://img.shields.io/badge/Java-☕-red?style=for-the-badge&logo=java)  
-  ![PySpark](https://img.shields.io/badge/PySpark-🔥-orange?style=for-the-badge&logo=apachespark)  
-  ![Pandas](https://img.shields.io/badge/Pandas-🐼-darkblue?style=for-the-badge&logo=pandas)  
-  ![NumPy](https://img.shields.io/badge/NumPy-🔢-lightblue?style=for-the-badge&logo=numpy)  
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-📈-green?style=for-the-badge&logo=plotly)  
-  ![Seaborn](https://img.shields.io/badge/Seaborn-🌊-teal?style=for-the-badge&logo=plotly)  
-
-</details>
 
 ---
 
