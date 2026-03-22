@@ -14,24 +14,6 @@
 📌 <strong>Focused on making data clear, accessible, and impactful</strong>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubham-kadam-b8856031a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/ShubhamK-0904" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:shubham85kadam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://shubhamkadam-portfolio.lovable.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-🌐-green?style=for-the-badge&logo=firefox" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ShubhamK-0904&color=blue&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
-
-
-
 ---
 
 ## 🛠️ Skills & Toolkit
@@ -77,6 +59,26 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamK-0904&theme=dark&border=2&border_radius=10&stroke=white" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=ShubhamK-0904&show_icons=true&theme=radical&border_radius=10" alt="GitHub Overall Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamK-0904&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+</p>
+
+---
+
+## 📞 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-kadam-b8856031a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/ShubhamK-0904" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:shubham85kadam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://shubhamkadam-portfolio.lovable.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-🌐-green?style=for-the-badge&logo=firefox" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ShubhamK-0904&color=blue&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 ---
