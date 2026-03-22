@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Java+Developer+%7C+PySpark+Practitioner;React+%26+React-Native+Developer;Data+Storyteller+%7C+Web+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&center=true&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Java+Developer+%7C+PySpark+Practitioner;React+%26+React-Native+Developer;Data+Storyteller+%7C+Web+Developer" alt="Typing Animation" />
 </p>
 
 <p align="center">
