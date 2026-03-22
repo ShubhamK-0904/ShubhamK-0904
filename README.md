@@ -8,29 +8,26 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Java+Developer+%7C+PySpark+Practitioner;React+%26+React-Native+Developer;Data+Storyteller+%7C+Web+Developer" alt="Typing Animation" />
 </p>
 
-💡 **Turning raw data into actionable insights**  
-🎯 Skilled across **Python, SQL, Java, PySpark, React, React‑Native, R, and modern visualization tools**  
-📌 Focused on making data **clear, accessible, and impactful**
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=500&lines=📞+Let's+Connect+and+Collaborate!" alt="Connect Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&width=500&lines=📞+Let's+Connect+and+Collaborate!" alt="Connect Animation" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubham-kadam-b8856031a">
+  <a href="https://www.linkedin.com/in/shubham-kadam-b8856031a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/ShubhamK-0904">
+  <a href="https://github.com/ShubhamK-0904" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:shubham85kadam@gmail.com">
     <img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://shubhamkadam-portfolio.lovable.app/">
+  <a href="https://shubhamkadam-portfolio.lovable.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-🌐-green?style=for-the-badge&logo=firefox" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ShubhamK-0904&color=blue&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
+
 
 
 ---
