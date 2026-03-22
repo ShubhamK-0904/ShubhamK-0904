@@ -55,7 +55,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamK-0904&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamK-0904&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamK-0904&theme=dark&border=2&border_radius=10&stroke=white" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=ShubhamK-0904&show_icons=true&theme=radical&border_radius=10" alt="GitHub Overall Stats" />
 </p>
