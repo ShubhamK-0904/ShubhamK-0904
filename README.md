@@ -2,32 +2,25 @@
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; align-items: center;">
 
-  <!-- Info Section -->
+  <!-- Info Column -->
   <div>
-    <h3>💡 About Me</h3>
-    <p><b>Turning raw data into actionable insights</b></p>
-    <p>🎯 Skilled across <b>Python, SQL, Java, PySpark, React, React‑Native, R, and modern visualization tools</b></p>
-    <p>📌 Focused on making data <b>clear, accessible, and impactful</b></p>
-    <p>🔍 Passionate about <b>data storytelling</b> — transforming complex datasets into dashboards, reports, and narratives that drive decisions.</p>
-    <p>🛠️ Experienced in <b>building full‑stack applications</b> with Java, React, and TailwindCSS, ensuring both functionality and user‑friendly design.</p>
-    <p>📊 Strong foundation in <b>data analysis & visualization</b> using Power BI, Tableau, Pandas, and Seaborn.</p>
-    <p>🚀 Currently exploring <b>advanced machine learning workflows</b> with PySpark and Spark ML for scalable data solutions.</p>
-    <p>🌱 Always learning — pursuing certifications, internships, and projects to sharpen my skills and stay ahead in tech.</p>
+    <p><b>💡 Turning raw data into actionable insights</b></p>
+    <p>🎯 Skilled in <b>Python, SQL, Java, PySpark, React, React‑Native, R</b> and visualization tools.</p>
+    <p>📊 Strong foundation in <b>data analysis & storytelling</b>, creating dashboards and reports that drive decisions.</p>
+    <p>🚀 Exploring <b>machine learning workflows</b> with PySpark and Spark ML for scalable solutions.</p>
     <p>🤝 Open to <b>collaboration, internships, and hybrid/remote opportunities</b> in Data Analysis, Java Development, and Front‑End Development.</p>
   </div>
 
-  <!-- GIF Section -->
+  <!-- GIF Column -->
   <div align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
   </div>
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Java+Developer+%7C+PySpark+Practitioner;React+%26+React-Native+Developer;Data+Storyteller+%7C+Web+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&lines=Data+Analyst+%7C+Python+%26+SQL;Java+Developer+%7C+PySpark;React+%26+React-Native+Developer;Data+Storyteller+%7C+Web+Developer" alt="Typing Animation" />
 </p>
-
-
 
 ---
 
