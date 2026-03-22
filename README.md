@@ -4,19 +4,31 @@
   <!-- Circular Cover Avatar -->
   <div style="position: relative; width: 180px; height: 180px; margin: auto;">
     <!-- Background Circle -->
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; 
-                border-radius: 50%; 
-                background: radial-gradient(circle at center, #00F7FF, #FF00FF); 
-                animation: pulseGlow 3s infinite;">
+    <div style="
+      position: absolute; 
+      top: 0; left: 0; 
+      width: 100%; height: 100%; 
+      border-radius: 50%; 
+      background: radial-gradient(circle at center, #00F7FF, #FF00FF); 
+      animation: pulseGlow 3s infinite;
+      z-index: 1;">
     </div>
     <!-- Profile Image -->
     <img 
       src="https://avatars.githubusercontent.com/u/201357751?s=400&u=a97cd351d841dfd0fca99ffe961fbf42d4531130&v=4" 
       alt="Shubham Kadam" 
-      style="position: relative; width: 10%; height: 10%; border-radius: 50%; object-fit: cover; border: 4px solid white;" 
+      style="
+        position: relative; 
+        width: 100%; height: 100%; 
+        border-radius: 50%; 
+        object-fit: cover; 
+        border: 4px solid white; 
+        z-index: 2;" 
     />
   </div>
 </p>
+
+
 
 
 <p align="center">
