@@ -2,15 +2,22 @@
 
 <table>
 <tr>
-<td width="60%">
-  
+<td width="60%" valign="top">
+
 💡 **Turning raw data into actionable insights**  
 🎯 Skilled across **Python, SQL, Java, PySpark, React, React‑Native, R, and modern visualization tools**  
-📌 Focused on making data **clear, accessible, and impactful**
+📌 Focused on making data **clear, accessible, and impactful**  
+
+🔍 Passionate about **data storytelling** — transforming complex datasets into dashboards, reports, and narratives that drive decisions.  
+🛠️ Experienced in **building full‑stack applications** with Java, React, and TailwindCSS, ensuring both functionality and user‑friendly design.  
+📊 Strong foundation in **data analysis & visualization** using Power BI, Tableau, Pandas, and Seaborn.  
+🚀 Currently exploring **advanced machine learning workflows** with PySpark and Spark ML for scalable data solutions.  
+🌱 Always learning — pursuing certifications, internships, and projects to sharpen my skills and stay ahead in tech.  
+🤝 Open to **collaboration, internships, and hybrid/remote opportunities** in Data Analysis, Java Development, and Front‑End Development.  
 
 </td>
 <td width="40%" align="center">
-  
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>
 
 </td>
@@ -21,11 +28,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Java+Developer+%7C+PySpark+Practitioner;React+%26+React-Native+Developer;Data+Storyteller+%7C+Web+Developer" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftqh5U4/giphy.gif" width="120" alt="Python GIF"/>
-  <img src="https://media.giphy.com/media/SS8CV5rJrDlWc/giphy.gif" width="120" alt="SQL GIF"/>
-  <img src="https://media.giphy.com/media/kdQ9Y3rR7YQfK/giphy.gif" width="120" alt="React GIF"/>
-</p>
 
 ---
 
