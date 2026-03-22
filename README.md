@@ -42,29 +42,31 @@
 ## 🏅 Certifications
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" width="250">
-        <img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge&logo=google-scholar" alt="Data Science Badge"/><br>
-        <b>Data Science Certification</b><br>
-        <i>Internshala Trainings</i><br>
-        <a href="https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/">🔗 View Certificate</a>
-      </td>
-      <td align="center" width="250">
-        <img src="https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge&logo=googlecloud" alt="Generative AI Badge"/><br>
-        <b>Introduction to Generative AI Studio</b><br>
-        <i>Simplilearn</i><br>
-        <a href="https://simpli-web.app.link/e/oei0cyAav1b">🔗 View Certificate</a>
-      </td>
-      <td align="center" width="250">
-        <img src="https://img.shields.io/badge/SQL%20for%20Data%20Analysis-green?style=for-the-badge&logo=postgresql" alt="SQL Badge"/><br>
-        <b>SQL for Data Analysis</b><br>
-        <i>LinkedIn Learning</i><br>
-        <a href="https://www.linkedin.com/learning/certificates/801e23a82c6419cf0bc866fb309f72aea7eb1b12b50bbc3507cdbb8de8abc9fa?trk=share_certificate">🔗 View Certificate</a>
-      </td>
-    </tr>
-  </table>
+  
+  <img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge&logo=google-scholar" alt="Data Science Badge"/>
+  <br>
+  <b>Data Science Certification</b>  
+  <i>Internshala Trainings</i>  
+  <a href="https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/">🔗 View Certificate</a>
+  
+  <hr style="border:1px dashed gray; width:50%;">
+
+  <img src="https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge&logo=googlecloud" alt="Generative AI Badge"/>
+  <br>
+  <b>Introduction to Generative AI Studio</b>  
+  <i>Simplilearn</i>  
+  <a href="https://simpli-web.app.link/e/oei0cyAav1b">🔗 View Certificate</a>
+  
+  <hr style="border:1px dashed gray; width:50%;">
+
+  <img src="https://img.shields.io/badge/SQL%20for%20Data%20Analysis-green?style=for-the-badge&logo=postgresql" alt="SQL Badge"/>
+  <br>
+  <b>SQL for Data Analysis</b>  
+  <i>LinkedIn Learning</i>  
+  <a href="https://www.linkedin.com/learning/certificates/801e23a82c6419cf0bc866fb309f72aea7eb1b12b50bbc3507cdbb8de8abc9fa?trk=share_certificate">🔗 View Certificate</a>
+
 </p>
+
 
 ---
 
