@@ -1,23 +1,23 @@
 # 👋 Hey there, I'm **Shubham Kadam**
 
 <p align="center">
-  <!-- Hexagon Avatar -->
-  <div 
-    style="position: relative; width: 160px; height: 160px; margin: auto; background: linear-gradient(to bottom right, #00F7FF, #FF00FF, #00F7FF); padding: 3px; clip-path: polygon(25% 6.7%, 75% 6.7%, 100% 50%, 75% 93.3%, 25% 93.3%, 0% 50%);"
-  >
-    <div 
-      style="width: 100%; height: 100%; background: #0d1117; clip-path: polygon(25% 6.7%, 75% 6.7%, 100% 50%, 75% 93.3%, 25% 93.3%, 0% 50%);"
-    >
-      <img 
-        src="https://avatars.githubusercontent.com/u/201357751?s=400&u=a97cd351d841dfd0fca99ffe961fbf42d4531130&v=4" 
-        alt="Shubham Kadam" 
-        loading="eager" 
-        decoding="async" 
-        style="width: 100%; height: 100%; object-fit: cover; clip-path: polygon(25% 6.7%, 75% 6.7%, 100% 50%, 75% 93.3%, 25% 93.3%, 0% 50%);" 
-      />
+  <!-- Circular Cover Avatar -->
+  <div style="position: relative; width: 180px; height: 180px; margin: auto;">
+    <!-- Background Circle -->
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; 
+                border-radius: 50%; 
+                background: radial-gradient(circle at center, #00F7FF, #FF00FF); 
+                animation: pulseGlow 3s infinite;">
     </div>
+    <!-- Profile Image -->
+    <img 
+      src="https://avatars.githubusercontent.com/u/201357751?s=400&u=a97cd351d841dfd0fca99ffe961fbf42d4531130&v=4" 
+      alt="Shubham Kadam" 
+      style="position: relative; width: 100%; height: 100%; border-radius: 50%; object-fit: cover; border: 4px solid white;" 
+    />
   </div>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Java+Developer+%7C+PySpark+Practitioner;React+%26+React-Native+Developer;Data+Storyteller+%7C+Web+Developer" alt="Typing Animation" />
