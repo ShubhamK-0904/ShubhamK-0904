@@ -10,51 +10,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250" alt="Data GIF"/>
-</p>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="120" alt="Python GIF"/><br>
-      <b>Python & SQL</b><br>
-      Pandas, NumPy, PySpark, PostgreSQL
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="120" alt="React GIF"/><br>
-      <b>Frontend Developer</b><br>
-      React, React Native, Tailwind CSS
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="Java GIF"/><br>
-      <b>Java Developer</b><br>
-      Java Swing, JDBC, Servlets
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120" alt="Visualization GIF"/><br>
-      <b>Data Storyteller</b><br>
-      Power BI, Tableau, Matplotlib, Seaborn
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" alt="Web GIF"/><br>
-      <b>Web Developer</b><br>
-      HTML, CSS, JavaScript
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="120" alt="Creative GIF"/><br>
-      <b>Creative Communicator</b><br>
-      Blending tech with storytelling
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🛠️ Skills & Toolkit
 
 <p align="center">
@@ -101,9 +56,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ShubhamK-0904&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" alt="Animated Data GIF"/>
-</p>
 
 ✨ _Thanks for stopping by! Dive into my projects, explore the dashboards, and let’s collaborate if you share a passion for data._
