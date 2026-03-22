@@ -1,26 +1,17 @@
 # 👋 Hey there, I'm **Shubham Kadam**
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; align-items: center;">
-
-  <!-- Info Column -->
-  <div>
-    <p><b>💡 Turning raw data into actionable insights</b></p>
-    <p>🎯 Skilled in <b>Python, SQL, Java, PySpark, React, React‑Native, R</b> and visualization tools.</p>
-    <p>📊 Strong foundation in <b>data analysis & storytelling</b>, creating dashboards and reports that drive decisions.</p>
-    <p>🚀 Exploring <b>machine learning workflows</b> with PySpark and Spark ML for scalable solutions.</p>
-    <p>🤝 Open to <b>collaboration, internships, and hybrid/remote opportunities</b> in Data Analysis, Java Development, and Front‑End Development.</p>
-  </div>
-
-  <!-- GIF Column -->
-  <div align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
-  </div>
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="180" alt="Animated GIF"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&lines=Data+Analyst+%7C+Python+%26+SQL;Java+Developer+%7C+PySpark;React+%26+React-Native+Developer;Data+Storyteller+%7C+Web+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Java+Developer+%7C+PySpark+Practitioner;React+%26+React-Native+Developer;Data+Storyteller+%7C+Web+Developer" alt="Typing Animation" />
 </p>
+
+💡 **Turning raw data into actionable insights**  
+🎯 Skilled across **Python, SQL, Java, PySpark, React, React‑Native, R, and modern visualization tools**  
+📌 Focused on making data **clear, accessible, and impactful**
+
 
 ---
 
