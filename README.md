@@ -1,16 +1,25 @@
 # 👋 Hey there, I'm **Shubham Kadam**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="180" alt="Animated GIF"/>
-</p>
+<table>
+<tr>
+<td width="60%">
+  
+💡 **Turning raw data into actionable insights**  
+🎯 Skilled across **Python, SQL, Java, PySpark, React, React‑Native, R, and modern visualization tools**  
+📌 Focused on making data **clear, accessible, and impactful**
+
+</td>
+<td width="40%" align="center">
+  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Java+Developer+%7C+PySpark+Practitioner;React+%26+React-Native+Developer;Data+Storyteller+%7C+Web+Developer" alt="Typing Animation" />
 </p>
-
-💡 **Turning raw data into actionable insights**  
-🎯 Skilled across **Python, SQL, Java, PySpark, React, React‑Native, R, and modern visualization tools**  
-📌 Focused on making data **clear, accessible, and impactful**
 
 ---
 
