@@ -42,30 +42,47 @@
 ## 🏅 Certifications
 
 <p align="center">
-  
-  <img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge&logo=google-scholar" alt="Data Science Badge"/>
-  <br>
-  <b>Data Science Certification</b>  
-  <i>Internshala Trainings</i>  
-  <a href="https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/">🔗 View Certificate</a>
-  
-  <hr style="border:1px dashed gray; width:50%;">
-
-  <img src="https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge&logo=googlecloud" alt="Generative AI Badge"/>
-  <br>
-  <b>Introduction to Generative AI Studio</b>  
-  <i>Simplilearn</i>  
-  <a href="https://simpli-web.app.link/e/oei0cyAav1b">🔗 View Certificate</a>
-  
-  <hr style="border:1px dashed gray; width:50%;">
-
-  <img src="https://img.shields.io/badge/SQL%20for%20Data%20Analysis-green?style=for-the-badge&logo=postgresql" alt="SQL Badge"/>
-  <br>
-  <b>SQL for Data Analysis</b>  
-  <i>LinkedIn Learning</i>  
-  <a href="https://www.linkedin.com/learning/certificates/801e23a82c6419cf0bc866fb309f72aea7eb1b12b50bbc3507cdbb8de8abc9fa?trk=share_certificate">🔗 View Certificate</a>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&width=500&lines=📜+My+Learning+Journey;🏆+Verified+Certifications;🚀+Always+Growing..." alt="Typing Animation" />
 </p>
+
+---
+
+<details open>
+  <summary><b>🎓 Data Science Certification</b></summary>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge&logo=google-scholar" alt="Data Science Badge"/>
+  </p>
+  <p align="center">
+    <i>Internshala Trainings</i><br>
+    <a href="https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/">🔗 View Certificate</a>
+  </p>
+</details>
+
+---
+
+<details>
+  <summary><b>🤖 Introduction to Generative AI Studio</b></summary>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge&logo=googlecloud" alt="Generative AI Badge"/>
+  </p>
+  <p align="center">
+    <i>Simplilearn</i><br>
+    <a href="https://simpli-web.app.link/e/oei0cyAav1b">🔗 View Certificate</a>
+  </p>
+</details>
+
+---
+
+<details>
+  <summary><b>🗂️ SQL for Data Analysis</b></summary>
+  <p align="center">
+    <img src="https://img.shields.io/badge/SQL%20for%20Data%20Analysis-green?style=for-the-badge&logo=postgresql" alt="SQL Badge"/>
+  </p>
+  <p align="center">
+    <i>LinkedIn Learning</i><br>
+    <a href="https://www.linkedin.com/learning/certificates/801e23a82c6419cf0bc866fb309f72aea7eb1b12b50bbc3507cdbb8de8abc9fa?trk=share_certificate">🔗 View Certificate</a>
+  </p>
+</details>
 
 
 ---
