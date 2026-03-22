@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&width=500&lines=📞+Let's+Connect+and+Collaborate!" alt="Connect Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=500&lines=💡+Turning+raw+data+into+actionable+insights;🎯+Skilled+in+Python,+SQL,+Java,+PySpark,+React,+R;📌+Making+data+clear,+accessible,+and+impactful" alt="Animated Tagline" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-kadam-b8856031a" target="_blank">
