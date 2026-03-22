@@ -15,22 +15,18 @@
 ### 🚀 Languages & Libraries
 ![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge&logo=python)  ![Java](https://img.shields.io/badge/Java-☕-red?style=for-the-badge&logo=java)  ![Java Servlet](https://img.shields.io/badge/Java%20Servlet-🌐-brown?style=for-the-badge&logo=java)  ![Java Swing](https://img.shields.io/badge/Java%20Swing-🖼️-orange?style=for-the-badge&logo=java)  ![JDBC](https://img.shields.io/badge/JDBC-🔗-darkgreen?style=for-the-badge&logo=java)  ![R](https://img.shields.io/badge/R-📊-lightblue?style=for-the-badge&logo=r)  ![PySpark](https://img.shields.io/badge/PySpark-🔥-orange?style=for-the-badge&logo=apachespark)  ![Pandas](https://img.shields.io/badge/Pandas-🐼-darkblue?style=for-the-badge&logo=pandas)  ![NumPy](https://img.shields.io/badge/NumPy-🔢-lightblue?style=for-the-badge&logo=numpy)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-📈-green?style=for-the-badge&logo=plotly)  ![Seaborn](https://img.shields.io/badge/Seaborn-🌊-teal?style=for-the-badge&logo=plotly)  
 
----
 
 ### 🗄️ Databases
 ![SQL](https://img.shields.io/badge/SQL-🗂️-yellow?style=for-the-badge&logo=postgresql)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-🐘-blue?style=for-the-badge&logo=postgresql)  ![Oracle](https://img.shields.io/badge/Oracle-🔴-red?style=for-the-badge&logo=oracle)  
 
----
 
 ### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML-🌐-orange?style=for-the-badge&logo=html5)  ![CSS](https://img.shields.io/badge/CSS-🎨-blue?style=for-the-badge&logo=css3)  ![JavaScript](https://img.shields.io/badge/JavaScript-⚡-yellow?style=for-the-badge&logo=javascript)  ![React](https://img.shields.io/badge/React-⚛️-blue?style=for-the-badge&logo=react)  ![React Native](https://img.shields.io/badge/ReactNative-📱-purple?style=for-the-badge&logo=react)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-💠-cyan?style=for-the-badge&logo=tailwindcss)  
 
----
 
 ### 📊 Visualization Tools
 ![Power BI](https://img.shields.io/badge/PowerBI-📈-yellow?style=for-the-badge&logo=powerbi)  ![Tableau](https://img.shields.io/badge/Tableau-📊-blue?style=for-the-badge&logo=tableau)  
 
----
 
 ## 🚀 Featured Projects
 
@@ -45,9 +41,30 @@
 
 ## 🏅 Certifications
 
-- 🎓 [Data Science Certification (Internshala Trainings)](https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/)  
-- 🤖 [Generative AI Studio (Simplilearn)](https://simpli-web.app.link/e/oei0cyAav1b)  
-- 🗂️ [SQL for Data Analysis (LinkedIn Learning)](https://www.linkedin.com/learning/certificates/801e23a82c6419cf0bc866fb309f72aea7eb1b12b50bbc3507cdbb8de8abc9fa?trk=share_certificate)  
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge&logo=google-scholar" alt="Data Science Badge"/><br>
+        <b>Data Science Certification</b><br>
+        <i>Internshala Trainings</i><br>
+        <a href="https://trainings.internshala.com/view_certificate/9kmij0bc9au/4frr850bxmz/">🔗 View Certificate</a>
+      </td>
+      <td align="center" width="250">
+        <img src="https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge&logo=googlecloud" alt="Generative AI Badge"/><br>
+        <b>Introduction to Generative AI Studio</b><br>
+        <i>Simplilearn</i><br>
+        <a href="https://simpli-web.app.link/e/oei0cyAav1b">🔗 View Certificate</a>
+      </td>
+      <td align="center" width="250">
+        <img src="https://img.shields.io/badge/SQL%20for%20Data%20Analysis-green?style=for-the-badge&logo=postgresql" alt="SQL Badge"/><br>
+        <b>SQL for Data Analysis</b><br>
+        <i>LinkedIn Learning</i><br>
+        <a href="https://www.linkedin.com/learning/certificates/801e23a82c6419cf0bc866fb309f72aea7eb1b12b50bbc3507cdbb8de8abc9fa?trk=share_certificate">🔗 View Certificate</a>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
