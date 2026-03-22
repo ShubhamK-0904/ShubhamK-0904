@@ -19,7 +19,7 @@
       alt="Shubham Kadam" 
       style="
         position: relative; 
-        width: 100%; height: 100%; 
+        width: 10%; height: 10%; 
         border-radius: 50%; 
         object-fit: cover; 
         border: 4px solid white; 
