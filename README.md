@@ -13,7 +13,7 @@
     <img 
       src="https://avatars.githubusercontent.com/u/201357751?s=400&u=a97cd351d841dfd0fca99ffe961fbf42d4531130&v=4" 
       alt="Shubham Kadam" 
-      style="position: relative; width: 100%; height: 100%; border-radius: 50%; object-fit: cover; border: 4px solid white;" 
+      style="position: relative; width: 10%; height: 10%; border-radius: 50%; object-fit: cover; border: 4px solid white;" 
     />
   </div>
 </p>
