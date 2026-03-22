@@ -10,7 +10,7 @@
       width: 100%; height: 100%; 
       border-radius: 50%; 
       background: radial-gradient(circle at center, #00F7FF, #FF00FF); 
-      animation: pulseGlow 3s infinite;
+      filter: blur(20px);
       z-index: 1;">
     </div>
     <!-- Profile Image -->
@@ -27,8 +27,6 @@
     />
   </div>
 </p>
-
-
 
 
 <p align="center">
