@@ -8,9 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Java+Developer+%7C+PySpark+Practitioner;React+%26+React-Native+Developer;Data+Storyteller+%7C+Web+Developer" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=500&lines=💡+Turning+raw+data+into+actionable+insights;🎯+Skilled+in+Python,+SQL,+Java,+PySpark,+React,+R;📌+Making+data+clear,+accessible,+and+impactful" alt="Animated Tagline" />
-</p>
+💡 **Turning raw data into actionable insights**  
+🎯 Skilled across **Python, SQL, Java, PySpark, React, React‑Native, R, and modern visualization tools**  
+📌 Focused on making data **clear, accessible, and impactful**  
+
 
 
 <p align="center">
