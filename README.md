@@ -68,18 +68,37 @@
 ## 📞 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubham-kadam-b8856031a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/ShubhamK-0904" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:shubham85kadam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://shubhamkadam-portfolio.lovable.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-🌐-green?style=for-the-badge&logo=firefox" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/shubham-kadam-b8856031a" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60" alt="LinkedIn"/><br>
+          <b>LinkedIn</b><br>Connect Professionally
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ShubhamK-0904" target="_blank">
+          <img src="https://img.icons8.com/ios-glyphs/90/000000/github.png" width="60" alt="GitHub"/><br>
+          <b>GitHub</b><br>Explore My Code
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:shubham85kadam@gmail.com">
+          <img src="https://img.icons8.com/color/96/000000/gmail.png" width="60" alt="Email"/><br>
+          <b>Email</b><br>Get in Touch
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://shubhamkadam-portfolio.lovable.app/" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/domain.png" width="60" alt="Portfolio"/><br>
+          <b>Portfolio</b><br>See My Work
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShubhamK-0904&color=blue&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
