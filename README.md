@@ -35,14 +35,11 @@
 ---
 
 ## 📚 Learning Journey
-
-<p align="center">
   ![Python](https://img.shields.io/badge/Python-90%25-blue?style=for-the-badge&logo=python)
   ![SQL](https://img.shields.io/badge/SQL-85%25-yellow?style=for-the-badge&logo=postgresql)
   ![React](https://img.shields.io/badge/React-70%25-cyan?style=for-the-badge&logo=react)
   ![PySpark](https://img.shields.io/badge/PySpark-65%25-orange?style=for-the-badge&logo=apachespark)
   ![R](https://img.shields.io/badge/R-40%25-lightblue?style=for-the-badge&logo=r)
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&center=true&lines=Learning+Python+🐍;Mastering+SQL+🗄️;Exploring+React+⚛️;Diving+into+PySpark+🔥;Getting+Started+with+R+📊" alt="Learning Animation" />
