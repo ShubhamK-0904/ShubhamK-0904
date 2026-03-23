@@ -1,12 +1,7 @@
 # 👋 Hey there, I'm **Shubham Kadam**
 
 <p align="center">
-  <!-- Coding GIF -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding GIF"/>
-  <!-- Data Visualization GIF -->
-  <img src="https://media.giphy.com/media/LMt9638dO8dftqh6UQ/giphy.gif" width="180" alt="Data Visualization GIF"/>
-  <!-- Abstract Tech GIF -->
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="180" alt="Abstract Tech GIF"/>
 </p>
 
 
