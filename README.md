@@ -34,15 +34,43 @@
 
 ---
 
-## 📚 Learning Journey
-  ![Python](https://img.shields.io/badge/Python-90%25-blue?style=for-the-badge&logo=python)
-  ![SQL](https://img.shields.io/badge/SQL-85%25-yellow?style=for-the-badge&logo=postgresql)
-  ![React](https://img.shields.io/badge/React-70%25-cyan?style=for-the-badge&logo=react)
-  ![PySpark](https://img.shields.io/badge/PySpark-65%25-orange?style=for-the-badge&logo=apachespark)
-  ![R](https://img.shields.io/badge/R-40%25-lightblue?style=for-the-badge&logo=r)
+## 🏆 The Discipline Protocol
+
+### 📊 Data Analyst Path
+<p align="center">
+  <img src="https://img.shields.io/badge/Progress-65%25-blue?style=for-the-badge" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&center=true&lines=Learning+Python+🐍;Mastering+SQL+🗄️;Exploring+React+⚛️;Diving+into+PySpark+🔥;Getting+Started+with+R+📊" alt="Learning Animation" />
+  🎯 <b>Goal:</b> Senior Data Analyst <br>
+  🕒 <b>Started:</b> June 2025 <br>
+  ⚡ <b>Status:</b> Building dashboards, mastering SQL & Python daily
+</p>
+
+---
+
+### 💻 Developer Path (Java)
+<p align="center">
+  <img src="https://img.shields.io/badge/Progress-55%25-green?style=for-the-badge" />
+</p>
+
+<p align="center">
+  🎯 <b>Goal:</b> Full‑Stack Java Developer <br>
+  🕒 <b>Started:</b> June 2025 <br>
+  ⚡ <b>Status:</b> Advancing JDBC, Swing, Servlet, JSP
+</p>
+
+---
+
+### 🌐 Developer Path (Web)
+<p align="center">
+  <img src="https://img.shields.io/badge/Progress-60%25-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
+  🎯 <b>Goal:</b> Modern Web Developer <br>
+  🕒 <b>Started:</b> June 2025 <br>
+  ⚡ <b>Status:</b> Growing expertise in HTML, CSS, JavaScript, React & React Native
 </p>
 
 ---
