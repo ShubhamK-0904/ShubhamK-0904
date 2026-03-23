@@ -68,20 +68,28 @@
 ## 📞 Let's Connect
 
 <p align="center">
-  <h3>🌐 My Professional Links</h3>
+  <a href="https://www.linkedin.com/in/shubham-kadam-b8856031a" target="_blank">
+    <img src="https://img.icons8.com/color/64/linkedin.png" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ShubhamK-0904" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/64/github.png" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:shubham85kadam@gmail.com">
+    <img src="https://img.icons8.com/color/64/gmail.png" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://shubhamkadam-portfolio.lovable.app/" target="_blank">
+    <img src="https://img.icons8.com/color/64/domain.png" alt="Portfolio"/>
+  </a>
 </p>
 
 <p align="center">
-  🔹 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/shubham-kadam-b8856031a" target="_blank">Connect with me</a>  
-  <br>🔹 <b>GitHub:</b> <a href="https://github.com/ShubhamK-0904" target="_blank">Explore my projects</a>  
-  <br>🔹 <b>Email:</b> <a href="mailto:shubham85kadam@gmail.com">shubham85kadam@gmail.com</a>  
-  <br>🔹 <b>Portfolio:</b> <a href="https://shubhamkadam-portfolio.lovable.app/" target="_blank">View my work</a>  
+  <sub>✨ Reach out for collaborations, opportunities, or just to say hello!</sub>
 </p>
 
----
-
 <p align="center">
-  <h3>📊 Engagement</h3>
   <img src="https://komarev.com/ghpvc/?username=ShubhamK-0904&color=blue&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
