@@ -68,16 +68,20 @@
 ## 📞 Let's Connect
 
 <p align="center">
-  ────────────────────────────────  
-  <br><b>📍 Location:</b> Mumbai, India  
-  <br><b>📧 Email:</b> <a href="mailto:shubham85kadam@gmail.com">shubham85kadam@gmail.com</a>  
-  <br><b>💼 LinkedIn:</b> <a href="https://www.linkedin.com/in/shubham-kadam-b8856031a" target="_blank">linkedin.com/in/shubham-kadam</a>  
-  <br><b>💻 GitHub:</b> <a href="https://github.com/ShubhamK-0904" target="_blank">github.com/ShubhamK-0904</a>  
-  <br><b>🌐 Portfolio:</b> <a href="https://shubhamkadam-portfolio.lovable.app/" target="_blank">shubhamkadam-portfolio.lovable.app</a>  
-  <br>────────────────────────────────  
+  <h3>🌐 My Professional Links</h3>
 </p>
 
 <p align="center">
+  🔹 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/shubham-kadam-b8856031a" target="_blank">Connect with me</a>  
+  <br>🔹 <b>GitHub:</b> <a href="https://github.com/ShubhamK-0904" target="_blank">Explore my projects</a>  
+  <br>🔹 <b>Email:</b> <a href="mailto:shubham85kadam@gmail.com">shubham85kadam@gmail.com</a>  
+  <br>🔹 <b>Portfolio:</b> <a href="https://shubhamkadam-portfolio.lovable.app/" target="_blank">View my work</a>  
+</p>
+
+---
+
+<p align="center">
+  <h3>📊 Engagement</h3>
   <img src="https://komarev.com/ghpvc/?username=ShubhamK-0904&color=blue&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
