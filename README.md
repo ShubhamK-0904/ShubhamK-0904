@@ -69,27 +69,17 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-kadam-b8856031a" target="_blank">
-    <img src="https://img.icons8.com/color/64/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ShubhamK-0904" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/64/github.png" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:shubham85kadam@gmail.com">
-    <img src="https://img.icons8.com/color/64/gmail.png" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://shubhamkadam-portfolio.lovable.app/" target="_blank">
-    <img src="https://img.icons8.com/color/64/domain.png" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-🌐-green?style=for-the-badge&logo=firefox" />
   </a>
-</p>
-
-<p align="center">
-  <sub>✨ Reach out for collaborations, opportunities, or just to say hello!</sub>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShubhamK-0904&color=blue&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
