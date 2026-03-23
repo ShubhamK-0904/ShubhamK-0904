@@ -37,11 +37,11 @@
 ## 📚 Learning Journey
 
 <p align="center">
-  <img src="https://progress-bar.dev/90/?title=Python&width=300&color=blue" />
-  <img src="https://progress-bar.dev/85/?title=SQL&width=300&color=yellow" />
-  <img src="https://progress-bar.dev/70/?title=React&width=300&color=cyan" />
-  <img src="https://progress-bar.dev/65/?title=PySpark&width=300&color=orange" />
-  <img src="https://progress-bar.dev/40/?title=R&width=300&color=lightblue" />
+  ![Python](https://img.shields.io/badge/Python-90%25-blue?style=for-the-badge&logo=python)
+  ![SQL](https://img.shields.io/badge/SQL-85%25-yellow?style=for-the-badge&logo=postgresql)
+  ![React](https://img.shields.io/badge/React-70%25-cyan?style=for-the-badge&logo=react)
+  ![PySpark](https://img.shields.io/badge/PySpark-65%25-orange?style=for-the-badge&logo=apachespark)
+  ![R](https://img.shields.io/badge/R-40%25-lightblue?style=for-the-badge&logo=r)
 </p>
 
 <p align="center">
