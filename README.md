@@ -68,34 +68,13 @@
 ## 📞 Let's Connect
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/shubham-kadam-b8856031a" target="_blank">
-          <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60" alt="LinkedIn"/><br>
-          <b>LinkedIn</b><br>Connect Professionally
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/ShubhamK-0904" target="_blank">
-          <img src="https://img.icons8.com/ios-glyphs/90/000000/github.png" width="60" alt="GitHub"/><br>
-          <b>GitHub</b><br>Explore My Code
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:shubham85kadam@gmail.com">
-          <img src="https://img.icons8.com/color/96/000000/gmail.png" width="60" alt="Email"/><br>
-          <b>Email</b><br>Get in Touch
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://shubhamkadam-portfolio.lovable.app/" target="_blank">
-          <img src="https://img.icons8.com/color/96/000000/domain.png" width="60" alt="Portfolio"/><br>
-          <b>Portfolio</b><br>See My Work
-        </a>
-      </td>
-    </tr>
-  </table>
+  ────────────────────────────────  
+  <br><b>📍 Location:</b> Mumbai, India  
+  <br><b>📧 Email:</b> <a href="mailto:shubham85kadam@gmail.com">shubham85kadam@gmail.com</a>  
+  <br><b>💼 LinkedIn:</b> <a href="https://www.linkedin.com/in/shubham-kadam-b8856031a" target="_blank">linkedin.com/in/shubham-kadam</a>  
+  <br><b>💻 GitHub:</b> <a href="https://github.com/ShubhamK-0904" target="_blank">github.com/ShubhamK-0904</a>  
+  <br><b>🌐 Portfolio:</b> <a href="https://shubhamkadam-portfolio.lovable.app/" target="_blank">shubhamkadam-portfolio.lovable.app</a>  
+  <br>────────────────────────────────  
 </p>
 
 <p align="center">
