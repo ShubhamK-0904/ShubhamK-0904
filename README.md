@@ -1,8 +1,14 @@
 # 👋 Hey there, I'm **Shubham Kadam**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="180" alt="Animated GIF"/>
+  <!-- Coding GIF -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding GIF"/>
+  <!-- Data Visualization GIF -->
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180" alt="Data Visualization GIF"/>
+  <!-- Abstract Tech GIF -->
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="180" alt="Abstract Tech GIF"/>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&center=true&lines=Data+Analyst+%7C+Python+%26+SQL+Enthusiast;Java+Developer+%7C+PySpark+Practitioner;React+%26+React-Native+Developer;Data+Storyteller+%7C+Web+Developer" alt="Typing Animation" />
@@ -57,7 +63,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamK-0904&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamK-0904&theme=dark&border=2&border_radius=10&stroke=white" alt="GitHub Streak Stats" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamK-0904&theme=dark&border=2&border_radius=10&stroke=white" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=ShubhamK-0904&show_icons=true&theme=radical&border_radius=10" alt="GitHub Overall Stats" />
 </p>
 
