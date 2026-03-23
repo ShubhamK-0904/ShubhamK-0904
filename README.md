@@ -34,6 +34,22 @@
 
 ---
 
+## 📚 Learning Journey
+
+<p align="center">
+  <img src="https://progress-bar.dev/90/?title=Python&width=300&color=blue" />
+  <img src="https://progress-bar.dev/85/?title=SQL&width=300&color=yellow" />
+  <img src="https://progress-bar.dev/70/?title=React&width=300&color=cyan" />
+  <img src="https://progress-bar.dev/65/?title=PySpark&width=300&color=orange" />
+  <img src="https://progress-bar.dev/40/?title=R&width=300&color=lightblue" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&center=true&lines=Learning+Python+🐍;Mastering+SQL+🗄️;Exploring+React+⚛️;Diving+into+PySpark+🔥;Getting+Started+with+R+📊" alt="Learning Animation" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Tech Stack | Highlights |
