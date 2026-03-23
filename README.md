@@ -4,10 +4,11 @@
   <!-- Coding GIF -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding GIF"/>
   <!-- Data Visualization GIF -->
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180" alt="Data Visualization GIF"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftqh6UQ/giphy.gif" width="180" alt="Data Visualization GIF"/>
   <!-- Abstract Tech GIF -->
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="180" alt="Abstract Tech GIF"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="180" alt="Abstract Tech GIF"/>
 </p>
+
 
 
 <p align="center">
